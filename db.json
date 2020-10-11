@@ -8,15 +8,15 @@
       "author": "Yoko Ono",
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
-        {
-          "id": 2,
-          "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        }
-      ]
+    {
+      "id": 2,
+      "username": "auer"
+    },
+    {
+      "id": 8,
+      "username": "maverick"
+    }
+  ]
     },
     {
       "id": 2,
@@ -216,48 +216,6 @@
           "username": "macejkovic"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "username": "pouros"
-    },
-    {
-      "id": 2,
-      "username": "auer"
-    },
-    {
-      "id": 3,
-      "username": "marvin"
-    },
-    {
-      "id": 4,
-      "username": "ann"
-    },
-    {
-      "id": 5,
-      "username": "feels-like-summer"
-    },
-    {
-      "id": 6,
-      "username": "steuber"
-    },
-    {
-      "id": 7,
-      "username": "summerqueen98"
-    },
-    {
-      "id": 8,
-      "username": "maverick"
-    },
-    {
-      "id": 9,
-      "username": "alex"
-    },
-    {
-      "id": 10,
-      "username": "macejkovic"
     }
   ]
 }
