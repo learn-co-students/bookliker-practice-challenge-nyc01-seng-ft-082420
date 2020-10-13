@@ -9,12 +9,8 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -25,24 +21,12 @@
       "description": "Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.",
       "author": "Caroline Criado Perez",
       "img_url": "https://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
+      "users": {
+        "userRecord": {
           "id": 1,
           "username": "pouros"
         }
-      ]
+      }
     },
     {
       "id": 3,
@@ -53,12 +37,16 @@
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 2,
+          "username": "auer"
+        },
+        {
           "id": 8,
           "username": "maverick"
         },
         {
-          "id": 9,
-          "username": "alex"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -110,12 +98,16 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
+          "id": 2,
+          "username": "auer"
         },
         {
-          "id": 4,
-          "username": "ann"
+          "id": 8,
+          "username": "maverick"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -128,12 +120,16 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
-          "username": "marvin"
+          "id": 2,
+          "username": "auer"
         },
         {
-          "id": 5,
-          "username": "feels-like-summer"
+          "id": 8,
+          "username": "maverick"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -146,16 +142,10 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "alex"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 2,
-          "username": "auer"
+          "userRecord": {
+            "id": 1,
+            "username": "pouros"
+          }
         }
       ]
     },
